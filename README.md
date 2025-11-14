@@ -5,7 +5,7 @@ Project name: Assign-Ment-09
 Purpose:
 Alpha!vite is a modern, mobile-responsive skill-sharing platform where learners and mentors connect to exchange skills. It features Firebase authentication (Email/Password and Google), user profile management, searchable skill listings, and a clean UX built with React + Vite + Tailwind CSS.
 
-Live URL: https://assign-ment-0009.netlify.app/
+Live URL: https://top-skills-09.netlify.app/
 
 Key Features:
 
