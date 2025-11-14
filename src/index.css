@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{--bg:#f7fafc;--card:#fff}
+.dark{--bg:#071026;--card:#0b1220}
+body{@apply bg-[color:var(--bg)] text-gray-800;font-family:Inter,system-ui;}
+.header-gradient{background:linear-gradient(90deg, rgba(108,92,231,0.12), rgba(0,184,148,0.08));}
+.card{background-color:var(--card);box-shadow:0 8px 30px rgba(15,23,42,0.06);border-radius:12px;}

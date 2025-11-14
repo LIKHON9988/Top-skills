@@ -1,0 +1,10 @@
+/* Global app styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply transition-colors duration-200;
+}
+.container { max-width: 1100px; margin: 0 auto; padding: 0 1rem; }
+.section-title { @apply text-3xl font-bold mb-6; }

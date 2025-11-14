@@ -1,0 +1,20 @@
+[
+  {
+    "title": "SkillSwap Meetup: Learn & Connect",
+    "time": "Saturday, Nov 16 • 4:00 PM",
+    "location": "Downtown Community Center",
+    "icon": "🤝"
+  },
+  {
+    "title": "Hands-on Workshop: Build a Project",
+    "time": "Wednesday, Nov 20 • 6:30 PM",
+    "location": "Tech Hub, 3rd Floor",
+    "icon": "🛠️"
+  },
+  {
+    "title": "Coffee & Code: Open Study",
+    "time": "Sunday, Nov 24 • 10:00 AM",
+    "location": "Brew Lab Café",
+    "icon": "☕"
+  }
+]

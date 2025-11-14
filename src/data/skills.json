@@ -1,0 +1,75 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Watercolor Painting Basics",
+    "providerName": "Andrew",
+    "providerEmail": "andrew@alphavite.com",
+    "price": 22,
+    "rating": 4.6,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://thumbs.dreamstime.com/b/painting-watercolor-cute-kitten-selective-focus-animal-359131944.jpg",
+    "category": "Art & Design"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Public Speaking Confidence",
+    "providerName": "Stifen",
+    "providerEmail": "stifen@alphavite.com",
+    "price": 13,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://miro.medium.com/v2/0*DNuIm25lhqeVaE55.jpg",
+    "category": "Personal Development"
+  },
+
+  {
+    "skillId": 4,
+    "skillName": "Web Development with HTML & CSS",
+    "providerName": "Grap",
+    "providerEmail": "grap@alphavite.com",
+    "price": 27,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Hands-on sessions to build your first Python projects.",
+    "image": "https://blog.zegocloud.com/wp-content/uploads/2024/03/types-of-web-development-services.jpg",
+    "category": "Technology"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Cinematic Video Editing",
+    "providerName": "Doflemingo",
+    "providerEmail": "doflemingo@alphavite.com",
+    "price": 33,
+    "rating": 4.89,
+    "slotsAvailable": 3,
+    "description": "Learn lighting and composition for strong portraits.",
+    "image": "https://img.freepik.com/free-photo/professional-agency-setup-cinematic-footage-creation-video-editing_482257-118951.jpg?semt=ais_hybrid&w=740&q=80",
+    "category": "Media Production"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Meditation & Mindfulness",
+    "providerName": "Roger",
+    "providerEmail": "roger@alphavite.com",
+    "price": 18,
+    "rating": 4.1,
+    "slotsAvailable": 4,
+    "description": "Gentle Hatha yoga focused on alignment and breath.",
+    "image": "https://www.healingwavess.com/cdn/shop/articles/Sefy_Deep_meditation_6b356c41-4e7b-4144-8cd6-bb2d3eae6c47.png?v=1686667584&width=1100",
+    "category": "Health & Wellness"
+  },
+  {
+    "skillId": 6,
+    "skillName": "French for Travelers",
+    "providerName": "Tanjiru",
+    "providerEmail": "tanjiru@alphavite.com",
+    "price": 17,
+    "rating": 4.2,
+    "slotsAvailable": 6,
+    "description": "Practice everyday Spanish in a friendly group.",
+    "image": "https://i.ytimg.com/vi/Mtp4RgBs_Dc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCmri9VWpdg2ciNH3DRNoLQ_0qtCA",
+    "category": "Language Learning"
+  }
+]
